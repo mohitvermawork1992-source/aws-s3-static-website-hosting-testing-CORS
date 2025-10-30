@@ -116,3 +116,22 @@ Writing and applying bucket policies
 Debugging real AWS 403 Forbidden errors
 
 Testing public website endpoints securely
+
+## 📸 Project Screenshots
+
+### 1️⃣ CORS Configuration
+![CORS](screenshots/cors-setup.png)
+
+### 2️⃣ Bucket Policy
+![Policy](screenshots/bucket-config.png)
+
+### 3️⃣ Static Website Hosting Enabled
+![Static Hosting](screenshots/static-hosting.png)
+
+### 4️⃣ 403 Access Denied Error (Before Fix)
+![403 Error](screenshots/403-error.png)
+
+### 5️⃣ Final Working Website
+![Website Working](screenshots/website-working(finaloutput).png)
+
+
